@@ -1,0 +1,3110 @@
+{
+  "videos": 109,
+  "playable": 103,
+  "referenceImages": 30,
+  "assets": [
+    {
+      "path": "data/整合素材索引.json",
+      "bytes": 43618
+    },
+    {
+      "path": "posters/01_7626834573757828382.jpg",
+      "bytes": 69495
+    },
+    {
+      "path": "posters/02_7652909201496329503.jpg",
+      "bytes": 34614
+    },
+    {
+      "path": "posters/03_7624296314162973983.jpg",
+      "bytes": 38701
+    },
+    {
+      "path": "posters/04_7639335166137093390.jpg",
+      "bytes": 52512
+    },
+    {
+      "path": "posters/05_7647330696192724255.jpg",
+      "bytes": 39136
+    },
+    {
+      "path": "posters/06_7669853711333723423.jpg",
+      "bytes": 46337
+    },
+    {
+      "path": "posters/07_7666428011125705997.jpg",
+      "bytes": 47848
+    },
+    {
+      "path": "posters/08_7626031323097926942.jpg",
+      "bytes": 32226
+    },
+    {
+      "path": "posters/09_7636727163265355021.jpg",
+      "bytes": 39924
+    },
+    {
+      "path": "posters/10_7654153145219550478.jpg",
+      "bytes": 47258
+    },
+    {
+      "path": "posters/11_7653008162601110797.jpg",
+      "bytes": 25198
+    },
+    {
+      "path": "posters/12_7648456484837281055.jpg",
+      "bytes": 46631
+    },
+    {
+      "path": "posters/13_7649885026405911839.jpg",
+      "bytes": 39074
+    },
+    {
+      "path": "posters/14_7675325882155666702.jpg",
+      "bytes": 68160
+    },
+    {
+      "path": "posters/15_7655689079111093535.jpg",
+      "bytes": 53231
+    },
+    {
+      "path": "posters/16_7643776579008564494.jpg",
+      "bytes": 43452
+    },
+    {
+      "path": "posters/17_7640056782546652447.jpg",
+      "bytes": 54884
+    },
+    {
+      "path": "posters/18_7667558078442655006.jpg",
+      "bytes": 44644
+    },
+    {
+      "path": "posters/19_7647121574939708685.jpg",
+      "bytes": 42639
+    },
+    {
+      "path": "posters/20_7640447221955087646.jpg",
+      "bytes": 37995
+    },
+    {
+      "path": "posters/21_7652768765775498510.jpg",
+      "bytes": 34224
+    },
+    {
+      "path": "posters/22_7669916584332234015.jpg",
+      "bytes": 35552
+    },
+    {
+      "path": "posters/23_7626891961298947359.jpg",
+      "bytes": 58213
+    },
+    {
+      "path": "posters/24_7680537365156269343.jpg",
+      "bytes": 19100
+    },
+    {
+      "path": "posters/25_7648832005400038669.jpg",
+      "bytes": 34260
+    },
+    {
+      "path": "posters/26_7669170711499492622.jpg",
+      "bytes": 35843
+    },
+    {
+      "path": "posters/27_7633588418236304671.jpg",
+      "bytes": 29907
+    },
+    {
+      "path": "posters/28_7669489384739130637.jpg",
+      "bytes": 39278
+    },
+    {
+      "path": "posters/29_7627421644126014733.jpg",
+      "bytes": 54420
+    },
+    {
+      "path": "posters/30_7655660597840760094.jpg",
+      "bytes": 32858
+    },
+    {
+      "path": "posters/31_7648030945114737951.jpg",
+      "bytes": 44148
+    },
+    {
+      "path": "posters/32_7650770452477922590.jpg",
+      "bytes": 47327
+    },
+    {
+      "path": "posters/33_7667877441624378654.jpg",
+      "bytes": 58221
+    },
+    {
+      "path": "posters/34_7635016869144972557.jpg",
+      "bytes": 29914
+    },
+    {
+      "path": "posters/35_7674178162145774862.jpg",
+      "bytes": 67015
+    },
+    {
+      "path": "storyboards/01_7626834573757828382.jpg",
+      "bytes": 210002
+    },
+    {
+      "path": "storyboards/02_7652909201496329503.jpg",
+      "bytes": 136945
+    },
+    {
+      "path": "storyboards/03_7624296314162973983.jpg",
+      "bytes": 139333
+    },
+    {
+      "path": "storyboards/04_7639335166137093390.jpg",
+      "bytes": 196167
+    },
+    {
+      "path": "storyboards/05_7647330696192724255.jpg",
+      "bytes": 122124
+    },
+    {
+      "path": "storyboards/06_7669853711333723423.jpg",
+      "bytes": 177167
+    },
+    {
+      "path": "storyboards/07_7666428011125705997.jpg",
+      "bytes": 149964
+    },
+    {
+      "path": "storyboards/08_7626031323097926942.jpg",
+      "bytes": 154269
+    },
+    {
+      "path": "storyboards/09_7636727163265355021.jpg",
+      "bytes": 183988
+    },
+    {
+      "path": "storyboards/10_7654153145219550478.jpg",
+      "bytes": 179682
+    },
+    {
+      "path": "storyboards/11_7653008162601110797.jpg",
+      "bytes": 104451
+    },
+    {
+      "path": "storyboards/12_7648456484837281055.jpg",
+      "bytes": 182621
+    },
+    {
+      "path": "storyboards/13_7649885026405911839.jpg",
+      "bytes": 146052
+    },
+    {
+      "path": "storyboards/14_7675325882155666702.jpg",
+      "bytes": 199901
+    },
+    {
+      "path": "storyboards/15_7655689079111093535.jpg",
+      "bytes": 192638
+    },
+    {
+      "path": "storyboards/16_7643776579008564494.jpg",
+      "bytes": 150057
+    },
+    {
+      "path": "storyboards/17_7640056782546652447.jpg",
+      "bytes": 181575
+    },
+    {
+      "path": "storyboards/18_7667558078442655006.jpg",
+      "bytes": 175769
+    },
+    {
+      "path": "storyboards/19_7647121574939708685.jpg",
+      "bytes": 148952
+    },
+    {
+      "path": "storyboards/20_7640447221955087646.jpg",
+      "bytes": 147434
+    },
+    {
+      "path": "storyboards/21_7652768765775498510.jpg",
+      "bytes": 137436
+    },
+    {
+      "path": "storyboards/22_7669916584332234015.jpg",
+      "bytes": 128454
+    },
+    {
+      "path": "storyboards/23_7626891961298947359.jpg",
+      "bytes": 170996
+    },
+    {
+      "path": "storyboards/24_7680537365156269343.jpg",
+      "bytes": 102239
+    },
+    {
+      "path": "storyboards/25_7648832005400038669.jpg",
+      "bytes": 130325
+    },
+    {
+      "path": "storyboards/26_7669170711499492622.jpg",
+      "bytes": 188936
+    },
+    {
+      "path": "storyboards/27_7633588418236304671.jpg",
+      "bytes": 110217
+    },
+    {
+      "path": "storyboards/28_7669489384739130637.jpg",
+      "bytes": 151121
+    },
+    {
+      "path": "storyboards/29_7627421644126014733.jpg",
+      "bytes": 184629
+    },
+    {
+      "path": "storyboards/30_7655660597840760094.jpg",
+      "bytes": 137440
+    },
+    {
+      "path": "storyboards/31_7648030945114737951.jpg",
+      "bytes": 155928
+    },
+    {
+      "path": "storyboards/32_7650770452477922590.jpg",
+      "bytes": 168789
+    },
+    {
+      "path": "storyboards/33_7667877441624378654.jpg",
+      "bytes": 179146
+    },
+    {
+      "path": "storyboards/34_7635016869144972557.jpg",
+      "bytes": 127926
+    },
+    {
+      "path": "storyboards/35_7674178162145774862.jpg",
+      "bytes": 170834
+    },
+    {
+      "path": "中文字幕/01_7626834573757828382_zh-CN.srt",
+      "bytes": 905
+    },
+    {
+      "path": "中文字幕/02_7652909201496329503_zh-CN.srt",
+      "bytes": 1041
+    },
+    {
+      "path": "中文字幕/03_7624296314162973983_zh-CN.srt",
+      "bytes": 1538
+    },
+    {
+      "path": "中文字幕/04_7639335166137093390_zh-CN.srt",
+      "bytes": 801
+    },
+    {
+      "path": "中文字幕/05_7647330696192724255_zh-CN.srt",
+      "bytes": 1366
+    },
+    {
+      "path": "中文字幕/06_7669853711333723423_zh-CN.srt",
+      "bytes": 1573
+    },
+    {
+      "path": "中文字幕/07_7666428011125705997_zh-CN.srt",
+      "bytes": 1231
+    },
+    {
+      "path": "中文字幕/08_7626031323097926942_zh-CN.srt",
+      "bytes": 336
+    },
+    {
+      "path": "中文字幕/09_7636727163265355021_zh-CN.srt",
+      "bytes": 749
+    },
+    {
+      "path": "中文字幕/12_7648456484837281055_zh-CN.srt",
+      "bytes": 1860
+    },
+    {
+      "path": "中文字幕/14_7675325882155666702_zh-CN.srt",
+      "bytes": 1190
+    },
+    {
+      "path": "中文字幕/15_7655689079111093535_zh-CN.srt",
+      "bytes": 1200
+    },
+    {
+      "path": "中文字幕/16_7643776579008564494_zh-CN.srt",
+      "bytes": 905
+    },
+    {
+      "path": "中文字幕/17_7640056782546652447_zh-CN.srt",
+      "bytes": 801
+    },
+    {
+      "path": "中文字幕/18_7667558078442655006_zh-CN.srt",
+      "bytes": 1150
+    },
+    {
+      "path": "中文字幕/19_7647121574939708685_zh-CN.srt",
+      "bytes": 902
+    },
+    {
+      "path": "中文字幕/20_7640447221955087646_zh-CN.srt",
+      "bytes": 801
+    },
+    {
+      "path": "中文字幕/21_7652768765775498510_zh-CN.srt",
+      "bytes": 966
+    },
+    {
+      "path": "中文字幕/23_7626891961298947359_zh-CN.srt",
+      "bytes": 834
+    },
+    {
+      "path": "中文字幕/24_7680537365156269343_zh-CN.srt",
+      "bytes": 1063
+    },
+    {
+      "path": "中文字幕/29_7627421644126014733_zh-CN.srt",
+      "bytes": 910
+    },
+    {
+      "path": "中文字幕/30_7655660597840760094_zh-CN.srt",
+      "bytes": 834
+    },
+    {
+      "path": "中文字幕/31_7648030945114737951_zh-CN.srt",
+      "bytes": 693
+    },
+    {
+      "path": "中文字幕/32_7650770452477922590_zh-CN.srt",
+      "bytes": 789
+    },
+    {
+      "path": "中文字幕/33_7667877441624378654_zh-CN.srt",
+      "bytes": 775
+    },
+    {
+      "path": "中文字幕/35_7674178162145774862_zh-CN.srt",
+      "bytes": 775
+    },
+    {
+      "path": "双语字幕/01_7626834573757828382_双语.srt",
+      "bytes": 1501
+    },
+    {
+      "path": "双语字幕/02_7652909201496329503_双语.srt",
+      "bytes": 1657
+    },
+    {
+      "path": "双语字幕/03_7624296314162973983_双语.srt",
+      "bytes": 2475
+    },
+    {
+      "path": "双语字幕/04_7639335166137093390_双语.srt",
+      "bytes": 1265
+    },
+    {
+      "path": "双语字幕/05_7647330696192724255_双语.srt",
+      "bytes": 1992
+    },
+    {
+      "path": "双语字幕/06_7669853711333723423_双语.srt",
+      "bytes": 2351
+    },
+    {
+      "path": "双语字幕/07_7666428011125705997_双语.srt",
+      "bytes": 1999
+    },
+    {
+      "path": "双语字幕/08_7626031323097926942_双语.srt",
+      "bytes": 531
+    },
+    {
+      "path": "双语字幕/09_7636727163265355021_双语.srt",
+      "bytes": 1146
+    },
+    {
+      "path": "双语字幕/12_7648456484837281055_双语.srt",
+      "bytes": 2958
+    },
+    {
+      "path": "双语字幕/14_7675325882155666702_双语.srt",
+      "bytes": 1950
+    },
+    {
+      "path": "双语字幕/15_7655689079111093535_双语.srt",
+      "bytes": 1941
+    },
+    {
+      "path": "双语字幕/16_7643776579008564494_双语.srt",
+      "bytes": 1501
+    },
+    {
+      "path": "双语字幕/17_7640056782546652447_双语.srt",
+      "bytes": 1265
+    },
+    {
+      "path": "双语字幕/18_7667558078442655006_双语.srt",
+      "bytes": 1882
+    },
+    {
+      "path": "双语字幕/19_7647121574939708685_双语.srt",
+      "bytes": 1502
+    },
+    {
+      "path": "双语字幕/20_7640447221955087646_双语.srt",
+      "bytes": 1265
+    },
+    {
+      "path": "双语字幕/21_7652768765775498510_双语.srt",
+      "bytes": 1543
+    },
+    {
+      "path": "双语字幕/23_7626891961298947359_双语.srt",
+      "bytes": 1379
+    },
+    {
+      "path": "双语字幕/24_7680537365156269343_双语.srt",
+      "bytes": 1719
+    },
+    {
+      "path": "双语字幕/29_7627421644126014733_双语.srt",
+      "bytes": 1402
+    },
+    {
+      "path": "双语字幕/30_7655660597840760094_双语.srt",
+      "bytes": 1365
+    },
+    {
+      "path": "双语字幕/31_7648030945114737951_双语.srt",
+      "bytes": 1016
+    },
+    {
+      "path": "双语字幕/32_7650770452477922590_双语.srt",
+      "bytes": 1229
+    },
+    {
+      "path": "双语字幕/33_7667877441624378654_双语.srt",
+      "bytes": 1219
+    },
+    {
+      "path": "双语字幕/35_7674178162145774862_双语.srt",
+      "bytes": 1219
+    },
+    {
+      "path": "字幕/01_7626834573757828382_eng-US_1.srt",
+      "bytes": 994
+    },
+    {
+      "path": "字幕/02_7652909201496329503_eng-US_1.srt",
+      "bytes": 1082
+    },
+    {
+      "path": "字幕/03_7624296314162973983_eng-US_1.srt",
+      "bytes": 1641
+    },
+    {
+      "path": "字幕/04_7639335166137093390_eng-US_1.srt",
+      "bytes": 828
+    },
+    {
+      "path": "字幕/05_7647330696192724255_eng-US_1.srt",
+      "bytes": 1296
+    },
+    {
+      "path": "字幕/05_7647330696192724255_spa-ES_2.srt",
+      "bytes": 1345
+    },
+    {
+      "path": "字幕/06_7669853711333723423_eng-US_1.srt",
+      "bytes": 1516
+    },
+    {
+      "path": "字幕/07_7666428011125705997_eng-US_1.srt",
+      "bytes": 1370
+    },
+    {
+      "path": "字幕/08_7626031323097926942_eng-US_2.srt",
+      "bytes": 326
+    },
+    {
+      "path": "字幕/09_7636727163265355021_eng-US_1.srt",
+      "bytes": 727
+    },
+    {
+      "path": "字幕/12_7648456484837281055_eng-US_1.srt",
+      "bytes": 1938
+    },
+    {
+      "path": "字幕/14_7675325882155666702_eng-US_1.srt",
+      "bytes": 1328
+    },
+    {
+      "path": "字幕/15_7655689079111093535_eng-US_1.srt",
+      "bytes": 1309
+    },
+    {
+      "path": "字幕/16_7643776579008564494_eng-US_1.srt",
+      "bytes": 1028
+    },
+    {
+      "path": "字幕/17_7640056782546652447_eng-US_1.srt",
+      "bytes": 828
+    },
+    {
+      "path": "字幕/18_7667558078442655006_eng-US_1.srt",
+      "bytes": 1266
+    },
+    {
+      "path": "字幕/19_7647121574939708685_eng-US_1.srt",
+      "bytes": 1032
+    },
+    {
+      "path": "字幕/20_7640447221955087646_eng-US_1.srt",
+      "bytes": 828
+    },
+    {
+      "path": "字幕/21_7652768765775498510_eng-US_1.srt",
+      "bytes": 1009
+    },
+    {
+      "path": "字幕/23_7626891961298947359_eng-US_1.srt",
+      "bytes": 909
+    },
+    {
+      "path": "字幕/24_7680537365156269343_eng-US_1.srt",
+      "bytes": 1122
+    },
+    {
+      "path": "字幕/29_7627421644126014733_eng-US_1.srt",
+      "bytes": 890
+    },
+    {
+      "path": "字幕/30_7655660597840760094_eng-US_1.srt",
+      "bytes": 895
+    },
+    {
+      "path": "字幕/31_7648030945114737951_eng-US_1.srt",
+      "bytes": 619
+    },
+    {
+      "path": "字幕/32_7650770452477922590_eng-US_1.srt",
+      "bytes": 804
+    },
+    {
+      "path": "字幕/33_7667877441624378654_eng-US_1.srt",
+      "bytes": 808
+    },
+    {
+      "path": "字幕/35_7674178162145774862_eng-US_1.srt",
+      "bytes": 808
+    },
+    {
+      "path": "整合字幕/entry-s1-7492282849702284590_3.vtt",
+      "bytes": 2210
+    },
+    {
+      "path": "整合字幕/entry-s1-7492282849702284590_4.vtt",
+      "bytes": 2294
+    },
+    {
+      "path": "整合字幕/entry-s1-7492677757889989934_39.vtt",
+      "bytes": 1999
+    },
+    {
+      "path": "整合字幕/entry-s1-7492677757889989934_40.vtt",
+      "bytes": 2176
+    },
+    {
+      "path": "整合字幕/entry-s1-7497447920350825774_5.vtt",
+      "bytes": 2387
+    },
+    {
+      "path": "整合字幕/entry-s1-7497447920350825774_6.vtt",
+      "bytes": 2603
+    },
+    {
+      "path": "整合字幕/entry-s1-7498074027848748318_37.vtt",
+      "bytes": 2271
+    },
+    {
+      "path": "整合字幕/entry-s1-7498074027848748318_38.vtt",
+      "bytes": 2404
+    },
+    {
+      "path": "整合字幕/entry-s1-7498463814623497503_41.vtt",
+      "bytes": 2493
+    },
+    {
+      "path": "整合字幕/entry-s1-7498463814623497503_42.vtt",
+      "bytes": 2644
+    },
+    {
+      "path": "整合字幕/entry-s1-7498913909399735598_1.vtt",
+      "bytes": 817
+    },
+    {
+      "path": "整合字幕/entry-s1-7498913909399735598_2.vtt",
+      "bytes": 836
+    },
+    {
+      "path": "整合字幕/entry-s1-7499263025996926254_15.vtt",
+      "bytes": 2484
+    },
+    {
+      "path": "整合字幕/entry-s1-7499263025996926254_16.vtt",
+      "bytes": 2662
+    },
+    {
+      "path": "整合字幕/entry-s1-7501085032421805343_19.vtt",
+      "bytes": 1983
+    },
+    {
+      "path": "整合字幕/entry-s1-7501085032421805343_20.vtt",
+      "bytes": 2125
+    },
+    {
+      "path": "整合字幕/entry-s1-7502236009959066926_27.vtt",
+      "bytes": 2001
+    },
+    {
+      "path": "整合字幕/entry-s1-7502236009959066926_28.vtt",
+      "bytes": 2025
+    },
+    {
+      "path": "整合字幕/entry-s1-7502454682351078702_29.vtt",
+      "bytes": 817
+    },
+    {
+      "path": "整合字幕/entry-s1-7502454682351078702_30.vtt",
+      "bytes": 836
+    },
+    {
+      "path": "整合字幕/entry-s1-7505168824291888427_35.vtt",
+      "bytes": 1533
+    },
+    {
+      "path": "整合字幕/entry-s1-7505168824291888427_36.vtt",
+      "bytes": 1529
+    },
+    {
+      "path": "整合字幕/entry-s1-7510219028309265710_10.vtt",
+      "bytes": 1340
+    },
+    {
+      "path": "整合字幕/entry-s1-7510219028309265710_9.vtt",
+      "bytes": 1306
+    },
+    {
+      "path": "整合字幕/entry-s1-7514373443517697310_7.vtt",
+      "bytes": 4648
+    },
+    {
+      "path": "整合字幕/entry-s1-7514373443517697310_8.vtt",
+      "bytes": 4839
+    },
+    {
+      "path": "整合字幕/entry-s1-7514888112246426911_13.vtt",
+      "bytes": 5728
+    },
+    {
+      "path": "整合字幕/entry-s1-7514888112246426911_14.vtt",
+      "bytes": 5850
+    },
+    {
+      "path": "整合字幕/entry-s1-7615919741361786126_23.vtt",
+      "bytes": 947
+    },
+    {
+      "path": "整合字幕/entry-s1-7615919741361786126_24.vtt",
+      "bytes": 1005
+    },
+    {
+      "path": "整合字幕/entry-s1-7617390408502430989_17.vtt",
+      "bytes": 450
+    },
+    {
+      "path": "整合字幕/entry-s1-7617390408502430989_18.vtt",
+      "bytes": 463
+    },
+    {
+      "path": "整合字幕/entry-s1-7621259428557278477_11.vtt",
+      "bytes": 1951
+    },
+    {
+      "path": "整合字幕/entry-s1-7621259428557278477_12.vtt",
+      "bytes": 2009
+    },
+    {
+      "path": "整合字幕/entry-s1-7634482525678652686_21.vtt",
+      "bytes": 1264
+    },
+    {
+      "path": "整合字幕/entry-s1-7634482525678652686_22.vtt",
+      "bytes": 1303
+    },
+    {
+      "path": "整合字幕/entry-s1-7642733741797920014_31.vtt",
+      "bytes": 867
+    },
+    {
+      "path": "整合字幕/entry-s1-7642733741797920014_32.vtt",
+      "bytes": 858
+    },
+    {
+      "path": "整合字幕/entry-s1-7644778116090580238_25.vtt",
+      "bytes": 891
+    },
+    {
+      "path": "整合字幕/entry-s1-7644778116090580238_26.vtt",
+      "bytes": 986
+    },
+    {
+      "path": "整合字幕/entry-s1-7649417099294690591_33.vtt",
+      "bytes": 1367
+    },
+    {
+      "path": "整合字幕/entry-s1-7649417099294690591_34.vtt",
+      "bytes": 1401
+    },
+    {
+      "path": "整合字幕/entry-s2-7358888352403164459_中文.vtt",
+      "bytes": 2486
+    },
+    {
+      "path": "整合字幕/entry-s2-7361958811281739050_中文.vtt",
+      "bytes": 4171
+    },
+    {
+      "path": "整合字幕/entry-s2-7364877152728337710_中文.vtt",
+      "bytes": 817
+    },
+    {
+      "path": "整合字幕/entry-s2-7368494967205023019_中文.vtt",
+      "bytes": 1910
+    },
+    {
+      "path": "整合字幕/entry-s2-7370832127631314218_中文.vtt",
+      "bytes": 2507
+    },
+    {
+      "path": "整合字幕/entry-s2-7373830195129650475_中文.vtt",
+      "bytes": 1209
+    },
+    {
+      "path": "整合字幕/entry-s2-7380189438665559339_中文.vtt",
+      "bytes": 1436
+    },
+    {
+      "path": "整合字幕/entry-s2-7387948527881801006_中文.vtt",
+      "bytes": 2620
+    },
+    {
+      "path": "整合字幕/entry-s2-7475059515717635359_中文.vtt",
+      "bytes": 1052
+    },
+    {
+      "path": "整合字幕/entry-s2-7494242992052555051_中文.vtt",
+      "bytes": 984
+    },
+    {
+      "path": "整合字幕/entry-s2-7496968280037461294_中文.vtt",
+      "bytes": 1104
+    },
+    {
+      "path": "整合字幕/entry-s2-7510288645601922335_中文.vtt",
+      "bytes": 821
+    },
+    {
+      "path": "整合字幕/entry-s2-7511012201558396206_中文.vtt",
+      "bytes": 521
+    },
+    {
+      "path": "整合字幕/entry-s2-7513276249582734622_中文.vtt",
+      "bytes": 1179
+    },
+    {
+      "path": "整合字幕/entry-s2-7514334097951739182_中文.vtt",
+      "bytes": 1079
+    },
+    {
+      "path": "整合字幕/entry-s2-7606493428360301854_中文.vtt",
+      "bytes": 1085
+    },
+    {
+      "path": "整合字幕/entry-s2-7611997471346101534_中文.vtt",
+      "bytes": 1381
+    },
+    {
+      "path": "整合字幕/entry-s2-7627567311314111774_中文.vtt",
+      "bytes": 1385
+    },
+    {
+      "path": "整合字幕/entry-s2-7639788307542445343_中文.vtt",
+      "bytes": 1355
+    },
+    {
+      "path": "整合字幕/entry-s2-7640509042481188109_中文.vtt",
+      "bytes": 1219
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/关键画面/01_royer.campos8_7498913909399735598.jpg",
+      "bytes": 124949
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/关键画面/03_victormelendez23_7492282849702284590.jpg",
+      "bytes": 132554
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/关键画面/04_victormelendez23_7497447920350825774.jpg",
+      "bytes": 149485
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/关键画面/05_lopeztips_7514373443517697310.jpg",
+      "bytes": 127600
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/关键画面/06_ismartfinds_7510219028309265710.jpg",
+      "bytes": 146740
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/关键画面/08_victormelendez23_7621259428557278477.jpg",
+      "bytes": 132560
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/关键画面/09_lopeztips_7514888112246426911.jpg",
+      "bytes": 140033
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/关键画面/10_victormelendez23_7499263025996926254.jpg",
+      "bytes": 134569
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/关键画面/11_toolwizard3_7617390408502430989.jpg",
+      "bytes": 125774
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/关键画面/13_rafaelmelendez580_7501085032421805343.jpg",
+      "bytes": 124069
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/关键画面/14_lunaharris76_7634482525678652686.jpg",
+      "bytes": 131834
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/关键画面/15_toolwizard3_7615919741361786126.jpg",
+      "bytes": 116589
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/关键画面/16_reikitjtdd7_7644778116090580238.jpg",
+      "bytes": 118065
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/关键画面/17_victormelendez23_7502236009959066926.jpg",
+      "bytes": 133642
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/关键画面/18_wqfb5few_7502454682351078702.jpg",
+      "bytes": 130522
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/关键画面/19_redu3024zob_7642733741797920014.jpg",
+      "bytes": 94361
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/关键画面/20_jennshomelab_7649417099294690591.jpg",
+      "bytes": 83136
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/关键画面/21_mdhandlife_7383347668287884590.jpg",
+      "bytes": 166380
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/关键画面/22_elchelefirpo503_7505168824291888427.jpg",
+      "bytes": 167213
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/关键画面/23_rafaelmelendez580_7498074027848748318.jpg",
+      "bytes": 128624
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/关键画面/24_victormelendez23_7492677757889989934.jpg",
+      "bytes": 144027
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/关键画面/25_rafaelmelendez580_7498463814623497503.jpg",
+      "bytes": 124869
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/01_royer.campos8_7498913909399735598.md",
+      "bytes": 2678
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/02_bveeessentials_7505239196232355118.md",
+      "bytes": 486
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/03_victormelendez23_7492282849702284590.md",
+      "bytes": 4065
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/04_victormelendez23_7497447920350825774.md",
+      "bytes": 4560
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/05_lopeztips_7514373443517697310.md",
+      "bytes": 7392
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/06_ismartfinds_7510219028309265710.md",
+      "bytes": 3489
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/07_maryshop91_7509609014943108383.md",
+      "bytes": 478
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/08_victormelendez23_7621259428557278477.md",
+      "bytes": 4004
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/09_lopeztips_7514888112246426911.md",
+      "bytes": 8697
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/10_victormelendez23_7499263025996926254.md",
+      "bytes": 4526
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/11_toolwizard3_7617390408502430989.md",
+      "bytes": 2601
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/12_elizabethquintanill_7491396151019736366.md",
+      "bytes": 496
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/13_rafaelmelendez580_7501085032421805343.md",
+      "bytes": 4277
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/14_lunaharris76_7634482525678652686.md",
+      "bytes": 3227
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/15_toolwizard3_7615919741361786126.md",
+      "bytes": 3183
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/16_reikitjtdd7_7644778116090580238.md",
+      "bytes": 2980
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/17_victormelendez23_7502236009959066926.md",
+      "bytes": 4028
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/18_wqfb5few_7502454682351078702.md",
+      "bytes": 2691
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/19_redu3024zob_7642733741797920014.md",
+      "bytes": 2906
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/20_jennshomelab_7649417099294690591.md",
+      "bytes": 3325
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/21_mdhandlife_7383347668287884590.md",
+      "bytes": 2270
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/22_elchelefirpo503_7505168824291888427.md",
+      "bytes": 3412
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/23_rafaelmelendez580_7498074027848748318.md",
+      "bytes": 4424
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/24_victormelendez23_7492677757889989934.md",
+      "bytes": 4098
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/单条报告/25_rafaelmelendez580_7498463814623497503.md",
+      "bytes": 4521
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/01_royer.campos8_7498913909399735598_中文.srt",
+      "bytes": 839
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/01_royer.campos8_7498913909399735598_原文.srt",
+      "bytes": 858
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/01_royer.campos8_7498913909399735598_双语.srt",
+      "bytes": 1296
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/01_royer.campos8_7498913909399735598_发布文案.txt",
+      "bytes": 155
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/03_victormelendez23_7492282849702284590_中文.srt",
+      "bytes": 2310
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/03_victormelendez23_7492282849702284590_原文.srt",
+      "bytes": 2394
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/03_victormelendez23_7492282849702284590_双语.srt",
+      "bytes": 3419
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/03_victormelendez23_7492282849702284590_发布文案.txt",
+      "bytes": 183
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/04_victormelendez23_7497447920350825774_中文.srt",
+      "bytes": 2484
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/04_victormelendez23_7497447920350825774_原文.srt",
+      "bytes": 2700
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/04_victormelendez23_7497447920350825774_双语.srt",
+      "bytes": 3933
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/04_victormelendez23_7497447920350825774_发布文案.txt",
+      "bytes": 183
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/05_lopeztips_7514373443517697310_中文.srt",
+      "bytes": 4847
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/05_lopeztips_7514373443517697310_原文.srt",
+      "bytes": 5038
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/05_lopeztips_7514373443517697310_双语.srt",
+      "bytes": 7478
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/05_lopeztips_7514373443517697310_发布文案.txt",
+      "bytes": 317
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/06_ismartfinds_7510219028309265710_中文.srt",
+      "bytes": 1352
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/06_ismartfinds_7510219028309265710_原文.srt",
+      "bytes": 1386
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/06_ismartfinds_7510219028309265710_双语.srt",
+      "bytes": 2065
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/06_ismartfinds_7510219028309265710_发布文案.txt",
+      "bytes": 412
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/08_victormelendez23_7621259428557278477_中文.srt",
+      "bytes": 2024
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/08_victormelendez23_7621259428557278477_原文.srt",
+      "bytes": 2082
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/08_victormelendez23_7621259428557278477_双语.srt",
+      "bytes": 3127
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/08_victormelendez23_7621259428557278477_发布文案.txt",
+      "bytes": 204
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/09_lopeztips_7514888112246426911_中文.srt",
+      "bytes": 5964
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/09_lopeztips_7514888112246426911_原文.srt",
+      "bytes": 6085
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/09_lopeztips_7514888112246426911_双语.srt",
+      "bytes": 9234
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/09_lopeztips_7514888112246426911_发布文案.txt",
+      "bytes": 368
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/10_victormelendez23_7499263025996926254_中文.srt",
+      "bytes": 2590
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/10_victormelendez23_7499263025996926254_原文.srt",
+      "bytes": 2768
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/10_victormelendez23_7499263025996926254_双语.srt",
+      "bytes": 4005
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/10_victormelendez23_7499263025996926254_发布文案.txt",
+      "bytes": 183
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/11_toolwizard3_7617390408502430989_中文.srt",
+      "bytes": 459
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/11_toolwizard3_7617390408502430989_原文.srt",
+      "bytes": 472
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/11_toolwizard3_7617390408502430989_双语.srt",
+      "bytes": 698
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/11_toolwizard3_7617390408502430989_发布文案.txt",
+      "bytes": 474
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/13_rafaelmelendez580_7501085032421805343_中文.srt",
+      "bytes": 2059
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/13_rafaelmelendez580_7501085032421805343_原文.srt",
+      "bytes": 2201
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/13_rafaelmelendez580_7501085032421805343_双语.srt",
+      "bytes": 3247
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/13_rafaelmelendez580_7501085032421805343_发布文案.txt",
+      "bytes": 297
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/14_lunaharris76_7634482525678652686_中文.srt",
+      "bytes": 1310
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/14_lunaharris76_7634482525678652686_原文.srt",
+      "bytes": 1349
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/14_lunaharris76_7634482525678652686_双语.srt",
+      "bytes": 1986
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/14_lunaharris76_7634482525678652686_发布文案.txt",
+      "bytes": 304
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/15_toolwizard3_7615919741361786126_中文.srt",
+      "bytes": 975
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/15_toolwizard3_7615919741361786126_原文.srt",
+      "bytes": 1033
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/15_toolwizard3_7615919741361786126_双语.srt",
+      "bytes": 1539
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/15_toolwizard3_7615919741361786126_发布文案.txt",
+      "bytes": 450
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/16_reikitjtdd7_7644778116090580238_中文.srt",
+      "bytes": 919
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/16_reikitjtdd7_7644778116090580238_原文.srt",
+      "bytes": 1014
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/16_reikitjtdd7_7644778116090580238_双语.srt",
+      "bytes": 1464
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/16_reikitjtdd7_7644778116090580238_发布文案.txt",
+      "bytes": 308
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/17_victormelendez23_7502236009959066926_中文.srt",
+      "bytes": 2078
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/17_victormelendez23_7502236009959066926_原文.srt",
+      "bytes": 2101
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/17_victormelendez23_7502236009959066926_双语.srt",
+      "bytes": 3166
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/17_victormelendez23_7502236009959066926_发布文案.txt",
+      "bytes": 218
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/18_wqfb5few_7502454682351078702_中文.srt",
+      "bytes": 839
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/18_wqfb5few_7502454682351078702_原文.srt",
+      "bytes": 858
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/18_wqfb5few_7502454682351078702_双语.srt",
+      "bytes": 1296
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/18_wqfb5few_7502454682351078702_发布文案.txt",
+      "bytes": 200
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/19_redu3024zob_7642733741797920014_中文.srt",
+      "bytes": 886
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/19_redu3024zob_7642733741797920014_原文.srt",
+      "bytes": 877
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/19_redu3024zob_7642733741797920014_双语.srt",
+      "bytes": 1396
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/19_redu3024zob_7642733741797920014_发布文案.txt",
+      "bytes": 277
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/20_jennshomelab_7649417099294690591_中文.srt",
+      "bytes": 1419
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/20_jennshomelab_7649417099294690591_原文.srt",
+      "bytes": 1453
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/20_jennshomelab_7649417099294690591_双语.srt",
+      "bytes": 2131
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/20_jennshomelab_7649417099294690591_发布文案.txt",
+      "bytes": 313
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/21_mdhandlife_7383347668287884590_发布文案.txt",
+      "bytes": 397
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/22_elchelefirpo503_7505168824291888427_中文.srt",
+      "bytes": 1594
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/22_elchelefirpo503_7505168824291888427_原文.srt",
+      "bytes": 1590
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/22_elchelefirpo503_7505168824291888427_双语.srt",
+      "bytes": 2341
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/22_elchelefirpo503_7505168824291888427_发布文案.txt",
+      "bytes": 169
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/23_rafaelmelendez580_7498074027848748318_中文.srt",
+      "bytes": 2365
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/23_rafaelmelendez580_7498074027848748318_原文.srt",
+      "bytes": 2498
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/23_rafaelmelendez580_7498074027848748318_双语.srt",
+      "bytes": 3646
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/23_rafaelmelendez580_7498074027848748318_发布文案.txt",
+      "bytes": 283
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/24_victormelendez23_7492677757889989934_中文.srt",
+      "bytes": 2084
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/24_victormelendez23_7492677757889989934_原文.srt",
+      "bytes": 2261
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/24_victormelendez23_7492677757889989934_双语.srt",
+      "bytes": 3230
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/24_victormelendez23_7492677757889989934_发布文案.txt",
+      "bytes": 288
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/25_rafaelmelendez580_7498463814623497503_中文.srt",
+      "bytes": 2602
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/25_rafaelmelendez580_7498463814623497503_原文.srt",
+      "bytes": 2753
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/25_rafaelmelendez580_7498463814623497503_双语.srt",
+      "bytes": 3968
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/deliverables/字幕/25_rafaelmelendez580_7498463814623497503_发布文案.txt",
+      "bytes": 230
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/videos/01_royer.campos8_7498913909399735598.mp4",
+      "bytes": 3332421
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/videos/03_victormelendez23_7492282849702284590.mp4",
+      "bytes": 11313003
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/videos/04_victormelendez23_7497447920350825774.mp4",
+      "bytes": 11682271
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/videos/05_lopeztips_7514373443517697310.mp4",
+      "bytes": 19918701
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/videos/06_ismartfinds_7510219028309265710.mp4",
+      "bytes": 7312289
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/videos/08_victormelendez23_7621259428557278477.mp4",
+      "bytes": 10021051
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/videos/09_lopeztips_7514888112246426911.mp4",
+      "bytes": 28520384
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/videos/10_victormelendez23_7499263025996926254.mp4",
+      "bytes": 10188586
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/videos/11_toolwizard3_7617390408502430989.mp4",
+      "bytes": 2707961
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/videos/13_rafaelmelendez580_7501085032421805343.mp4",
+      "bytes": 7491308
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/videos/14_lunaharris76_7634482525678652686.mp4",
+      "bytes": 9548216
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/videos/15_toolwizard3_7615919741361786126.mp4",
+      "bytes": 4812802
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/videos/16_reikitjtdd7_7644778116090580238.mp4",
+      "bytes": 4712852
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/videos/17_victormelendez23_7502236009959066926.mp4",
+      "bytes": 7372630
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/videos/18_wqfb5few_7502454682351078702.mp4",
+      "bytes": 4047663
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/videos/19_redu3024zob_7642733741797920014.mp4",
+      "bytes": 4013000
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/videos/20_jennshomelab_7649417099294690591.mp4",
+      "bytes": 5069850
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/videos/21_mdhandlife_7383347668287884590.mp4",
+      "bytes": 7942898
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/videos/22_elchelefirpo503_7505168824291888427.mp4",
+      "bytes": 9882687
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/videos/23_rafaelmelendez580_7498074027848748318.mp4",
+      "bytes": 9718623
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/videos/24_victormelendez23_7492677757889989934.mp4",
+      "bytes": 10949910
+    },
+    {
+      "path": "整合素材/冷风机原批次/迷你冷风机/videos/25_rafaelmelendez580_7498463814623497503.mp4",
+      "bytes": 8978840
+    },
+    {
+      "path": "整合素材/露营风扇原批次/storyboards/01_linkdeals_7361958811281739050.jpg",
+      "bytes": 140449
+    },
+    {
+      "path": "整合素材/露营风扇原批次/storyboards/02_juanitofinds_7387948527881801006.jpg",
+      "bytes": 129844
+    },
+    {
+      "path": "整合素材/露营风扇原批次/storyboards/03_octavia.lorraine_7370832127631314218.jpg",
+      "bytes": 106547
+    },
+    {
+      "path": "整合素材/露营风扇原批次/storyboards/04_sarah.whitlock617_7611997471346101534.jpg",
+      "bytes": 185627
+    },
+    {
+      "path": "整合素材/露营风扇原批次/storyboards/05_wild_tries_7373830195129650475.jpg",
+      "bytes": 129350
+    },
+    {
+      "path": "整合素材/露营风扇原批次/storyboards/06_thebenderfam24_7640509042481188109.jpg",
+      "bytes": 150197
+    },
+    {
+      "path": "整合素材/露营风扇原批次/storyboards/07_patriotfishing2_7617726339528871182.jpg",
+      "bytes": 148181
+    },
+    {
+      "path": "整合素材/露营风扇原批次/storyboards/08_laceyng82_7606493428360301854.jpg",
+      "bytes": 145203
+    },
+    {
+      "path": "整合素材/露营风扇原批次/storyboards/09_a_craftsmans_touch_7358888352403164459.jpg",
+      "bytes": 147668
+    },
+    {
+      "path": "整合素材/露营风扇原批次/storyboards/10_tim0james4_7496968280037461294.jpg",
+      "bytes": 126056
+    },
+    {
+      "path": "整合素材/露营风扇原批次/storyboards/11_wild_tries_7475059515717635359.jpg",
+      "bytes": 115176
+    },
+    {
+      "path": "整合素材/露营风扇原批次/storyboards/12_chief_keithh_7518385713344269598.jpg",
+      "bytes": 106131
+    },
+    {
+      "path": "整合素材/露营风扇原批次/storyboards/13_jennsfavefinds_7513276249582734622.jpg",
+      "bytes": 146084
+    },
+    {
+      "path": "整合素材/露营风扇原批次/storyboards/14_leonelxandres_7364877152728337710.jpg",
+      "bytes": 162314
+    },
+    {
+      "path": "整合素材/露营风扇原批次/storyboards/15_ivangtv2_7380189438665559339.jpg",
+      "bytes": 130644
+    },
+    {
+      "path": "整合素材/露营风扇原批次/storyboards/16_miguelitosdiy_7494242992052555051.jpg",
+      "bytes": 149852
+    },
+    {
+      "path": "整合素材/露营风扇原批次/storyboards/18_jeremyreviews_7368494967205023019.jpg",
+      "bytes": 151581
+    },
+    {
+      "path": "整合素材/露营风扇原批次/storyboards/19_ogery.mart_7514334097951739182.jpg",
+      "bytes": 144243
+    },
+    {
+      "path": "整合素材/露营风扇原批次/storyboards/20_sarah.whitlock617_7627567311314111774.jpg",
+      "bytes": 168569
+    },
+    {
+      "path": "整合素材/露营风扇原批次/storyboards/22_fixed_mycrown_7511012201558396206.jpg",
+      "bytes": 160316
+    },
+    {
+      "path": "整合素材/露营风扇原批次/storyboards/23_sarah.whitlock617_7639788307542445343.jpg",
+      "bytes": 134532
+    },
+    {
+      "path": "整合素材/露营风扇原批次/storyboards/24_campglowfinds_7510288645601922335.jpg",
+      "bytes": 155813
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/01_linkdeals_7361958811281739050_中文.srt",
+      "bytes": 4346
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/01_linkdeals_7361958811281739050_原文.srt",
+      "bytes": 4557
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/01_linkdeals_7361958811281739050_双语.srt",
+      "bytes": 6737
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/02_juanitofinds_7387948527881801006_中文.srt",
+      "bytes": 2708
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/02_juanitofinds_7387948527881801006_原文.srt",
+      "bytes": 3069
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/02_juanitofinds_7387948527881801006_双语.srt",
+      "bytes": 4597
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/03_octavia.lorraine_7370832127631314218_中文.srt",
+      "bytes": 2604
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/03_octavia.lorraine_7370832127631314218_原文.srt",
+      "bytes": 2610
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/03_octavia.lorraine_7370832127631314218_双语.srt",
+      "bytes": 3932
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/04_sarah.whitlock617_7611997471346101534_中文.srt",
+      "bytes": 1424
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/04_sarah.whitlock617_7611997471346101534_原文.srt",
+      "bytes": 1562
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/04_sarah.whitlock617_7611997471346101534_双语.srt",
+      "bytes": 2316
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/05_wild_tries_7373830195129650475_中文.srt",
+      "bytes": 1246
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/05_wild_tries_7373830195129650475_原文.srt",
+      "bytes": 1297
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/05_wild_tries_7373830195129650475_双语.srt",
+      "bytes": 1941
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/06_thebenderfam24_7640509042481188109_中文.srt",
+      "bytes": 1256
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/06_thebenderfam24_7640509042481188109_原文.srt",
+      "bytes": 1379
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/06_thebenderfam24_7640509042481188109_双语.srt",
+      "bytes": 2033
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/07_patriotfishing2_7617726339528871182_画面字卡_中文.srt",
+      "bytes": 78
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/07_patriotfishing2_7617726339528871182_画面字卡_原文.srt",
+      "bytes": 65
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/08_laceyng82_7606493428360301854_中文.srt",
+      "bytes": 1110
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/08_laceyng82_7606493428360301854_原文.srt",
+      "bytes": 1053
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/08_laceyng82_7606493428360301854_双语.srt",
+      "bytes": 1697
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/09_a_craftsmans_touch_7358888352403164459_中文.srt",
+      "bytes": 2580
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/09_a_craftsmans_touch_7358888352403164459_原文.srt",
+      "bytes": 2617
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/09_a_craftsmans_touch_7358888352403164459_双语.srt",
+      "bytes": 3949
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/10_tim0james4_7496968280037461294_中文.srt",
+      "bytes": 1132
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/10_tim0james4_7496968280037461294_原文.srt",
+      "bytes": 1172
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/10_tim0james4_7496968280037461294_双语.srt",
+      "bytes": 1804
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/11_wild_tries_7475059515717635359_中文.srt",
+      "bytes": 1074
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/11_wild_tries_7475059515717635359_原文.srt",
+      "bytes": 994
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/11_wild_tries_7475059515717635359_双语.srt",
+      "bytes": 1636
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/12_chief_keithh_7518385713344269598_画面字卡_中文.srt",
+      "bytes": 228
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/12_chief_keithh_7518385713344269598_画面字卡_原文.srt",
+      "bytes": 237
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/13_jennsfavefinds_7513276249582734622_中文.srt",
+      "bytes": 1210
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/13_jennsfavefinds_7513276249582734622_原文.srt",
+      "bytes": 1248
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/13_jennsfavefinds_7513276249582734622_双语.srt",
+      "bytes": 1924
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/14_leonelxandres_7364877152728337710_中文.srt",
+      "bytes": 833
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/14_leonelxandres_7364877152728337710_原文.srt",
+      "bytes": 932
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/14_leonelxandres_7364877152728337710_双语.srt",
+      "bytes": 1401
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/15_ivangtv2_7380189438665559339_中文.srt",
+      "bytes": 1482
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/15_ivangtv2_7380189438665559339_原文.srt",
+      "bytes": 1538
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/15_ivangtv2_7380189438665559339_双语.srt",
+      "bytes": 2316
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/16_miguelitosdiy_7494242992052555051_中文.srt",
+      "bytes": 1015
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/16_miguelitosdiy_7494242992052555051_原文.srt",
+      "bytes": 1073
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/16_miguelitosdiy_7494242992052555051_双语.srt",
+      "bytes": 1554
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/18_jeremyreviews_7368494967205023019_中文.srt",
+      "bytes": 1977
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/18_jeremyreviews_7368494967205023019_原文.srt",
+      "bytes": 2146
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/18_jeremyreviews_7368494967205023019_双语.srt",
+      "bytes": 3181
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/19_ogery.mart_7514334097951739182_中文.srt",
+      "bytes": 1107
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/19_ogery.mart_7514334097951739182_原文.srt",
+      "bytes": 1185
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/19_ogery.mart_7514334097951739182_双语.srt",
+      "bytes": 1792
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/20_sarah.whitlock617_7627567311314111774_中文.srt",
+      "bytes": 1428
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/20_sarah.whitlock617_7627567311314111774_原文.srt",
+      "bytes": 1508
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/20_sarah.whitlock617_7627567311314111774_双语.srt",
+      "bytes": 2266
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/22_fixed_mycrown_7511012201558396206_中文.srt",
+      "bytes": 527
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/22_fixed_mycrown_7511012201558396206_原文.srt",
+      "bytes": 561
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/22_fixed_mycrown_7511012201558396206_双语.srt",
+      "bytes": 858
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/23_sarah.whitlock617_7639788307542445343_中文.srt",
+      "bytes": 1398
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/23_sarah.whitlock617_7639788307542445343_原文.srt",
+      "bytes": 1513
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/23_sarah.whitlock617_7639788307542445343_双语.srt",
+      "bytes": 2241
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/24_campglowfinds_7510288645601922335_中文.srt",
+      "bytes": 837
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/24_campglowfinds_7510288645601922335_原文.srt",
+      "bytes": 768
+    },
+    {
+      "path": "整合素材/露营风扇原批次/subtitles/24_campglowfinds_7510288645601922335_双语.srt",
+      "bytes": 1241
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/01_linkdeals_7361958811281739050_文案字幕与拆解.md",
+      "bytes": 12504
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/02_juanitofinds_7387948527881801006_文案字幕与拆解.md",
+      "bytes": 9897
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/03_octavia.lorraine_7370832127631314218_文案字幕与拆解.md",
+      "bytes": 8514
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/04_sarah.whitlock617_7611997471346101534_文案字幕与拆解.md",
+      "bytes": 5586
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/05_wild_tries_7373830195129650475_文案字幕与拆解.md",
+      "bytes": 5148
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/06_thebenderfam24_7640509042481188109_文案字幕与拆解.md",
+      "bytes": 5209
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/07_patriotfishing2_7617726339528871182_文案字幕与拆解.md",
+      "bytes": 2116
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/08_laceyng82_7606493428360301854_文案字幕与拆解.md",
+      "bytes": 4490
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/09_a_craftsmans_touch_7358888352403164459_文案字幕与拆解.md",
+      "bytes": 8200
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/10_tim0james4_7496968280037461294_文案字幕与拆解.md",
+      "bytes": 4625
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/11_wild_tries_7475059515717635359_文案字幕与拆解.md",
+      "bytes": 5562
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/12_chief_keithh_7518385713344269598_文案字幕与拆解.md",
+      "bytes": 2334
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/13_jennsfavefinds_7513276249582734622_文案字幕与拆解.md",
+      "bytes": 5108
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/14_leonelxandres_7364877152728337710_文案字幕与拆解.md",
+      "bytes": 4188
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/15_ivangtv2_7380189438665559339_文案字幕与拆解.md",
+      "bytes": 5662
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/16_miguelitosdiy_7494242992052555051_文案字幕与拆解.md",
+      "bytes": 4294
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/17_yorbanvergara_7527142473307671838_文案字幕与拆解.md",
+      "bytes": 567
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/18_jeremyreviews_7368494967205023019_文案字幕与拆解.md",
+      "bytes": 7291
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/19_ogery.mart_7514334097951739182_文案字幕与拆解.md",
+      "bytes": 4900
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/20_sarah.whitlock617_7627567311314111774_文案字幕与拆解.md",
+      "bytes": 5396
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/21_bahstunboy_7364507560675708202_文案字幕与拆解.md",
+      "bytes": 561
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/22_fixed_mycrown_7511012201558396206_文案字幕与拆解.md",
+      "bytes": 3249
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/23_sarah.whitlock617_7639788307542445343_文案字幕与拆解.md",
+      "bytes": 5415
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/24_campglowfinds_7510288645601922335_文案字幕与拆解.md",
+      "bytes": 4019
+    },
+    {
+      "path": "整合素材/露营风扇原批次/texts/25_yorbanvergara_7501777139981716766_文案字幕与拆解.md",
+      "bytes": 567
+    },
+    {
+      "path": "整合素材/露营风扇原批次/videos/01_linkdeals_7361958811281739050.mp4",
+      "bytes": 30259111
+    },
+    {
+      "path": "整合素材/露营风扇原批次/videos/02_juanitofinds_7387948527881801006.mp4",
+      "bytes": 18763644
+    },
+    {
+      "path": "整合素材/露营风扇原批次/videos/03_octavia.lorraine_7370832127631314218.mp4",
+      "bytes": 11658486
+    },
+    {
+      "path": "整合素材/露营风扇原批次/videos/04_sarah.whitlock617_7611997471346101534.mp4",
+      "bytes": 17396445
+    },
+    {
+      "path": "整合素材/露营风扇原批次/videos/05_wild_tries_7373830195129650475.mp4",
+      "bytes": 7399694
+    },
+    {
+      "path": "整合素材/露营风扇原批次/videos/06_thebenderfam24_7640509042481188109.mp4",
+      "bytes": 8132443
+    },
+    {
+      "path": "整合素材/露营风扇原批次/videos/07_patriotfishing2_7617726339528871182.mp4",
+      "bytes": 765440
+    },
+    {
+      "path": "整合素材/露营风扇原批次/videos/08_laceyng82_7606493428360301854.mp4",
+      "bytes": 8598084
+    },
+    {
+      "path": "整合素材/露营风扇原批次/videos/09_a_craftsmans_touch_7358888352403164459.mp4",
+      "bytes": 16583027
+    },
+    {
+      "path": "整合素材/露营风扇原批次/videos/10_tim0james4_7496968280037461294.mp4",
+      "bytes": 6227118
+    },
+    {
+      "path": "整合素材/露营风扇原批次/videos/11_wild_tries_7475059515717635359.mp4",
+      "bytes": 4940624
+    },
+    {
+      "path": "整合素材/露营风扇原批次/videos/12_chief_keithh_7518385713344269598.mp4",
+      "bytes": 2755376
+    },
+    {
+      "path": "整合素材/露营风扇原批次/videos/13_jennsfavefinds_7513276249582734622.mp4",
+      "bytes": 7733571
+    },
+    {
+      "path": "整合素材/露营风扇原批次/videos/14_leonelxandres_7364877152728337710.mp4",
+      "bytes": 5646416
+    },
+    {
+      "path": "整合素材/露营风扇原批次/videos/15_ivangtv2_7380189438665559339.mp4",
+      "bytes": 10292359
+    },
+    {
+      "path": "整合素材/露营风扇原批次/videos/16_miguelitosdiy_7494242992052555051.mp4",
+      "bytes": 8491561
+    },
+    {
+      "path": "整合素材/露营风扇原批次/videos/18_jeremyreviews_7368494967205023019.mp4",
+      "bytes": 13368819
+    },
+    {
+      "path": "整合素材/露营风扇原批次/videos/19_ogery.mart_7514334097951739182.mp4",
+      "bytes": 8755818
+    },
+    {
+      "path": "整合素材/露营风扇原批次/videos/20_sarah.whitlock617_7627567311314111774.mp4",
+      "bytes": 12717586
+    },
+    {
+      "path": "整合素材/露营风扇原批次/videos/22_fixed_mycrown_7511012201558396206.mp4",
+      "bytes": 3441474
+    },
+    {
+      "path": "整合素材/露营风扇原批次/videos/23_sarah.whitlock617_7639788307542445343.mp4",
+      "bytes": 9829804
+    },
+    {
+      "path": "整合素材/露营风扇原批次/videos/24_campglowfinds_7510288645601922335.mp4",
+      "bytes": 4377610
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/01_poster.jpg",
+      "bytes": 17123
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/01_storyboard.jpg",
+      "bytes": 263073
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/02_poster.jpg",
+      "bytes": 15865
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/02_storyboard.jpg",
+      "bytes": 285987
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/03_poster.jpg",
+      "bytes": 14307
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/03_storyboard.jpg",
+      "bytes": 238621
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/04_poster.jpg",
+      "bytes": 22790
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/04_storyboard.jpg",
+      "bytes": 293157
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/05_poster.jpg",
+      "bytes": 16176
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/05_storyboard.jpg",
+      "bytes": 236771
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/06_poster.jpg",
+      "bytes": 23012
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/06_storyboard.jpg",
+      "bytes": 286968
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/07_poster.jpg",
+      "bytes": 12118
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/07_storyboard.jpg",
+      "bytes": 211387
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/08_poster.jpg",
+      "bytes": 21645
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/08_storyboard.jpg",
+      "bytes": 272513
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/09_poster.jpg",
+      "bytes": 14935
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/09_storyboard.jpg",
+      "bytes": 243000
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/10_poster.jpg",
+      "bytes": 24612
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/10_storyboard.jpg",
+      "bytes": 325940
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/11_poster.jpg",
+      "bytes": 14211
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/11_storyboard.jpg",
+      "bytes": 201744
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/12_poster.jpg",
+      "bytes": 20624
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/12_storyboard.jpg",
+      "bytes": 283929
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/13_poster.jpg",
+      "bytes": 17336
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/13_storyboard.jpg",
+      "bytes": 246922
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/14_poster.jpg",
+      "bytes": 23473
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/14_storyboard.jpg",
+      "bytes": 308402
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/15_poster.jpg",
+      "bytes": 18743
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/15_storyboard.jpg",
+      "bytes": 256448
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/16_poster.jpg",
+      "bytes": 11644
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/16_storyboard.jpg",
+      "bytes": 174098
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/17_poster.jpg",
+      "bytes": 13091
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/17_storyboard.jpg",
+      "bytes": 268676
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/18_poster.jpg",
+      "bytes": 16047
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/18_storyboard.jpg",
+      "bytes": 287397
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/19_poster.jpg",
+      "bytes": 16701
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/19_storyboard.jpg",
+      "bytes": 275631
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/20_poster.jpg",
+      "bytes": 12229
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/20_storyboard.jpg",
+      "bytes": 241964
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/21_poster.jpg",
+      "bytes": 17006
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/21_storyboard.jpg",
+      "bytes": 293327
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/22_poster.jpg",
+      "bytes": 10040
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/22_storyboard.jpg",
+      "bytes": 240676
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/23_poster.jpg",
+      "bytes": 18921
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/23_storyboard.jpg",
+      "bytes": 296543
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/24_poster.jpg",
+      "bytes": 17422
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/24_storyboard.jpg",
+      "bytes": 272468
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/25_poster.jpg",
+      "bytes": 14926
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/images/25_storyboard.jpg",
+      "bytes": 243603
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/01_octavia.lorraine_7494457199188512042.zh.srt",
+      "bytes": 1776
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/02_codylop_7655689079111093535.zh.srt",
+      "bytes": 1233
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/03_ghall6623_7491035630697352494.zh.srt",
+      "bytes": 2977
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/04_ariugcenthusiast_7486575164415675690.zh.srt",
+      "bytes": 2458
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/05_.danay2024_7639092464883666189.zh.srt",
+      "bytes": 1123
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/06_ogerylasts_7632275264143232287.zh.srt",
+      "bytes": 793
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/07_betterbybrian_7519290802422467895.zh.srt",
+      "bytes": 627
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/08_campairflow_7624509383539559693.zh.srt",
+      "bytes": 1224
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/09_lilylacubanita1_7509647870837001518.zh.srt",
+      "bytes": 2297
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/10_pnwdad206_7488046019305901342.zh.srt",
+      "bytes": 609
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/11_betterbybrian_7522360536755883277.zh.srt",
+      "bytes": 925
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/12_longhorn_threads_7520795859982814495.zh.srt",
+      "bytes": 1380
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/13_georjah_erin_7522610598853512503.zh.srt",
+      "bytes": 91
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/14_maestrooskar_7506696085700611359.zh.srt",
+      "bytes": 3488
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/15_maestrooskar_7669534625764543774.zh.srt",
+      "bytes": 3745
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/16_savagemomlife_7506355112688864542.zh.srt",
+      "bytes": 1678
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/17_laceyng82_7613725288907787550.zh.srt",
+      "bytes": 848
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/18_codylop_7656965006147226911.zh.srt",
+      "bytes": 1153
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/19_alacartaconsabor_7505082684746648863.zh.srt",
+      "bytes": 1643
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/20_forever_barnesfamily_7640670991286324493.zh.srt",
+      "bytes": 1144
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/21_alamooutdoor_7629580396258282783.zh.srt",
+      "bytes": 1459
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/22_ariugcenthusiast_7487605152212405547.zh.srt",
+      "bytes": 2706
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/23_pergolascoronado_7501033148164148511.zh.srt",
+      "bytes": 9057
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/24_yordanka_aa_7526685814466563342.zh.srt",
+      "bytes": 3641
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/subtitles/25_leroybrownesq_7643103511856549151.zh.srt",
+      "bytes": 1527
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/01_octavia.lorraine_7494457199188512042.mp4",
+      "bytes": 7627353
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/02_codylop_7655689079111093535.mp4",
+      "bytes": 6209128
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/03_ghall6623_7491035630697352494.mp4",
+      "bytes": 13889780
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/04_ariugcenthusiast_7486575164415675690.mp4",
+      "bytes": 18402836
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/05_.danay2024_7639092464883666189.mp4",
+      "bytes": 9500324
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/06_ogerylasts_7632275264143232287.mp4",
+      "bytes": 6228458
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/07_betterbybrian_7519290802422467895.mp4",
+      "bytes": 3993784
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/08_campairflow_7624509383539559693.mp4",
+      "bytes": 8855748
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/09_lilylacubanita1_7509647870837001518.mp4",
+      "bytes": 11552555
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/10_pnwdad206_7488046019305901342.mp4",
+      "bytes": 3162409
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/11_betterbybrian_7522360536755883277.mp4",
+      "bytes": 4490136
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/12_longhorn_threads_7520795859982814495.mp4",
+      "bytes": 11525919
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/13_georjah_erin_7522610598853512503.mp4",
+      "bytes": 4746053
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/14_maestrooskar_7506696085700611359.mp4",
+      "bytes": 27681203
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/15_maestrooskar_7669534625764543774.mp4",
+      "bytes": 22147103
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/16_savagemomlife_7506355112688864542.mp4",
+      "bytes": 10184355
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/17_laceyng82_7613725288907787550.mp4",
+      "bytes": 7163314
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/18_codylop_7656965006147226911.mp4",
+      "bytes": 9101104
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/19_alacartaconsabor_7505082684746648863.mp4",
+      "bytes": 5718965
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/20_forever_barnesfamily_7640670991286324493.mp4",
+      "bytes": 6898290
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/21_alamooutdoor_7629580396258282783.mp4",
+      "bytes": 11304471
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/22_ariugcenthusiast_7487605152212405547.mp4",
+      "bytes": 17000105
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/23_pergolascoronado_7501033148164148511.mp4",
+      "bytes": 49252131
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/24_yordanka_aa_7526685814466563342.mp4",
+      "bytes": 23437740
+    },
+    {
+      "path": "整合素材/露营风扇阅读报告/videos/25_leroybrownesq_7643103511856549151.mp4",
+      "bytes": 7341674
+    },
+    {
+      "path": "策划资料/48条完整中文口播.txt",
+      "bytes": 21232
+    },
+    {
+      "path": "策划资料/48条完整英文口播.txt",
+      "bytes": 24384
+    },
+    {
+      "path": "策划资料/48条英文口播_独立纯文本.zip",
+      "bytes": 18291
+    },
+    {
+      "path": "策划资料/产品页面核对记录.json",
+      "bytes": 1548
+    },
+    {
+      "path": "策划资料/完整口播/S01-A.en.txt",
+      "bytes": 471
+    },
+    {
+      "path": "策划资料/完整口播/S01-B.en.txt",
+      "bytes": 485
+    },
+    {
+      "path": "策划资料/完整口播/S01-C.en.txt",
+      "bytes": 493
+    },
+    {
+      "path": "策划资料/完整口播/S02-A.en.txt",
+      "bytes": 477
+    },
+    {
+      "path": "策划资料/完整口播/S02-B.en.txt",
+      "bytes": 449
+    },
+    {
+      "path": "策划资料/完整口播/S02-C.en.txt",
+      "bytes": 474
+    },
+    {
+      "path": "策划资料/完整口播/S03-A.en.txt",
+      "bytes": 475
+    },
+    {
+      "path": "策划资料/完整口播/S03-B.en.txt",
+      "bytes": 487
+    },
+    {
+      "path": "策划资料/完整口播/S03-C.en.txt",
+      "bytes": 474
+    },
+    {
+      "path": "策划资料/完整口播/S04-A.en.txt",
+      "bytes": 469
+    },
+    {
+      "path": "策划资料/完整口播/S04-B.en.txt",
+      "bytes": 475
+    },
+    {
+      "path": "策划资料/完整口播/S04-C.en.txt",
+      "bytes": 472
+    },
+    {
+      "path": "策划资料/完整口播/S05-A.en.txt",
+      "bytes": 461
+    },
+    {
+      "path": "策划资料/完整口播/S05-B.en.txt",
+      "bytes": 480
+    },
+    {
+      "path": "策划资料/完整口播/S05-C.en.txt",
+      "bytes": 494
+    },
+    {
+      "path": "策划资料/完整口播/S06-A.en.txt",
+      "bytes": 459
+    },
+    {
+      "path": "策划资料/完整口播/S06-B.en.txt",
+      "bytes": 450
+    },
+    {
+      "path": "策划资料/完整口播/S06-C.en.txt",
+      "bytes": 473
+    },
+    {
+      "path": "策划资料/完整口播/S07-A.en.txt",
+      "bytes": 476
+    },
+    {
+      "path": "策划资料/完整口播/S07-B.en.txt",
+      "bytes": 458
+    },
+    {
+      "path": "策划资料/完整口播/S07-C.en.txt",
+      "bytes": 474
+    },
+    {
+      "path": "策划资料/完整口播/S08-A.en.txt",
+      "bytes": 465
+    },
+    {
+      "path": "策划资料/完整口播/S08-B.en.txt",
+      "bytes": 476
+    },
+    {
+      "path": "策划资料/完整口播/S08-C.en.txt",
+      "bytes": 451
+    },
+    {
+      "path": "策划资料/完整口播/S09-A.en.txt",
+      "bytes": 456
+    },
+    {
+      "path": "策划资料/完整口播/S09-B.en.txt",
+      "bytes": 445
+    },
+    {
+      "path": "策划资料/完整口播/S09-C.en.txt",
+      "bytes": 481
+    },
+    {
+      "path": "策划资料/完整口播/S10-A.en.txt",
+      "bytes": 446
+    },
+    {
+      "path": "策划资料/完整口播/S10-B.en.txt",
+      "bytes": 490
+    },
+    {
+      "path": "策划资料/完整口播/S10-C.en.txt",
+      "bytes": 480
+    },
+    {
+      "path": "策划资料/完整口播/S11-A.en.txt",
+      "bytes": 483
+    },
+    {
+      "path": "策划资料/完整口播/S11-B.en.txt",
+      "bytes": 473
+    },
+    {
+      "path": "策划资料/完整口播/S11-C.en.txt",
+      "bytes": 481
+    },
+    {
+      "path": "策划资料/完整口播/S12-A.en.txt",
+      "bytes": 494
+    },
+    {
+      "path": "策划资料/完整口播/S12-B.en.txt",
+      "bytes": 476
+    },
+    {
+      "path": "策划资料/完整口播/S12-C.en.txt",
+      "bytes": 486
+    },
+    {
+      "path": "策划资料/完整口播/S13-A.en.txt",
+      "bytes": 470
+    },
+    {
+      "path": "策划资料/完整口播/S13-B.en.txt",
+      "bytes": 507
+    },
+    {
+      "path": "策划资料/完整口播/S13-C.en.txt",
+      "bytes": 536
+    },
+    {
+      "path": "策划资料/完整口播/S14-A.en.txt",
+      "bytes": 490
+    },
+    {
+      "path": "策划资料/完整口播/S14-B.en.txt",
+      "bytes": 486
+    },
+    {
+      "path": "策划资料/完整口播/S14-C.en.txt",
+      "bytes": 488
+    },
+    {
+      "path": "策划资料/完整口播/S15-A.en.txt",
+      "bytes": 443
+    },
+    {
+      "path": "策划资料/完整口播/S15-B.en.txt",
+      "bytes": 469
+    },
+    {
+      "path": "策划资料/完整口播/S15-C.en.txt",
+      "bytes": 492
+    },
+    {
+      "path": "策划资料/完整口播/S16-A.en.txt",
+      "bytes": 471
+    },
+    {
+      "path": "策划资料/完整口播/S16-B.en.txt",
+      "bytes": 463
+    },
+    {
+      "path": "策划资料/完整口播/S16-C.en.txt",
+      "bytes": 463
+    },
+    {
+      "path": "策划资料/广告测试记录模板.csv",
+      "bytes": 277
+    },
+    {
+      "path": "策划资料/桌面冰雾扇_澳洲广告策划.md",
+      "bytes": 112046
+    },
+    {
+      "path": "网页字幕/01_7626834573757828382_en.vtt",
+      "bytes": 975
+    },
+    {
+      "path": "网页字幕/01_7626834573757828382_zh.vtt",
+      "bytes": 883
+    },
+    {
+      "path": "网页字幕/02_7652909201496329503_en.vtt",
+      "bytes": 1057
+    },
+    {
+      "path": "网页字幕/02_7652909201496329503_zh.vtt",
+      "bytes": 1013
+    },
+    {
+      "path": "网页字幕/03_7624296314162973983_en.vtt",
+      "bytes": 1595
+    },
+    {
+      "path": "网页字幕/03_7624296314162973983_zh.vtt",
+      "bytes": 1489
+    },
+    {
+      "path": "网页字幕/04_7639335166137093390_en.vtt",
+      "bytes": 812
+    },
+    {
+      "path": "网页字幕/04_7639335166137093390_zh.vtt",
+      "bytes": 782
+    },
+    {
+      "path": "网页字幕/05_7647330696192724255_en.vtt",
+      "bytes": 1253
+    },
+    {
+      "path": "网页字幕/05_7647330696192724255_zh.vtt",
+      "bytes": 1320
+    },
+    {
+      "path": "网页字幕/06_7669853711333723423_en.vtt",
+      "bytes": 1467
+    },
+    {
+      "path": "网页字幕/06_7669853711333723423_zh.vtt",
+      "bytes": 1521
+    },
+    {
+      "path": "网页字幕/07_7666428011125705997_en.vtt",
+      "bytes": 1333
+    },
+    {
+      "path": "网页字幕/07_7666428011125705997_zh.vtt",
+      "bytes": 1191
+    },
+    {
+      "path": "网页字幕/08_7626031323097926942_en.vtt",
+      "bytes": 326
+    },
+    {
+      "path": "网页字幕/08_7626031323097926942_zh.vtt",
+      "bytes": 333
+    },
+    {
+      "path": "网页字幕/09_7636727163265355021_en.vtt",
+      "bytes": 714
+    },
+    {
+      "path": "网页字幕/09_7636727163265355021_zh.vtt",
+      "bytes": 733
+    },
+    {
+      "path": "网页字幕/12_7648456484837281055_en.vtt",
+      "bytes": 1880
+    },
+    {
+      "path": "网页字幕/12_7648456484837281055_zh.vtt",
+      "bytes": 1799
+    },
+    {
+      "path": "网页字幕/14_7675325882155666702_en.vtt",
+      "bytes": 1294
+    },
+    {
+      "path": "网页字幕/14_7675325882155666702_zh.vtt",
+      "bytes": 1153
+    },
+    {
+      "path": "网页字幕/15_7655689079111093535_en.vtt",
+      "bytes": 1275
+    },
+    {
+      "path": "网页字幕/15_7655689079111093535_zh.vtt",
+      "bytes": 1163
+    },
+    {
+      "path": "网页字幕/16_7643776579008564494_en.vtt",
+      "bytes": 1006
+    },
+    {
+      "path": "网页字幕/16_7643776579008564494_zh.vtt",
+      "bytes": 880
+    },
+    {
+      "path": "网页字幕/17_7640056782546652447_en.vtt",
+      "bytes": 812
+    },
+    {
+      "path": "网页字幕/17_7640056782546652447_zh.vtt",
+      "bytes": 782
+    },
+    {
+      "path": "网页字幕/18_7667558078442655006_en.vtt",
+      "bytes": 1235
+    },
+    {
+      "path": "网页字幕/18_7667558078442655006_zh.vtt",
+      "bytes": 1116
+    },
+    {
+      "path": "网页字幕/19_7647121574939708685_en.vtt",
+      "bytes": 1010
+    },
+    {
+      "path": "网页字幕/19_7647121574939708685_zh.vtt",
+      "bytes": 877
+    },
+    {
+      "path": "网页字幕/20_7640447221955087646_en.vtt",
+      "bytes": 812
+    },
+    {
+      "path": "网页字幕/20_7640447221955087646_zh.vtt",
+      "bytes": 782
+    },
+    {
+      "path": "网页字幕/21_7652768765775498510_en.vtt",
+      "bytes": 987
+    },
+    {
+      "path": "网页字幕/21_7652768765775498510_zh.vtt",
+      "bytes": 941
+    },
+    {
+      "path": "网页字幕/23_7626891961298947359_en.vtt",
+      "bytes": 893
+    },
+    {
+      "path": "网页字幕/23_7626891961298947359_zh.vtt",
+      "bytes": 815
+    },
+    {
+      "path": "网页字幕/24_7680537365156269343_en.vtt",
+      "bytes": 1097
+    },
+    {
+      "path": "网页字幕/24_7680537365156269343_zh.vtt",
+      "bytes": 1035
+    },
+    {
+      "path": "网页字幕/29_7627421644126014733_en.vtt",
+      "bytes": 871
+    },
+    {
+      "path": "网页字幕/29_7627421644126014733_zh.vtt",
+      "bytes": 888
+    },
+    {
+      "path": "网页字幕/30_7655660597840760094_en.vtt",
+      "bytes": 879
+    },
+    {
+      "path": "网页字幕/30_7655660597840760094_zh.vtt",
+      "bytes": 815
+    },
+    {
+      "path": "网页字幕/31_7648030945114737951_en.vtt",
+      "bytes": 609
+    },
+    {
+      "path": "网页字幕/31_7648030945114737951_zh.vtt",
+      "bytes": 680
+    },
+    {
+      "path": "网页字幕/32_7650770452477922590_en.vtt",
+      "bytes": 788
+    },
+    {
+      "path": "网页字幕/32_7650770452477922590_zh.vtt",
+      "bytes": 770
+    },
+    {
+      "path": "网页字幕/33_7667877441624378654_en.vtt",
+      "bytes": 792
+    },
+    {
+      "path": "网页字幕/33_7667877441624378654_zh.vtt",
+      "bytes": 756
+    },
+    {
+      "path": "网页字幕/35_7674178162145774862_en.vtt",
+      "bytes": 792
+    },
+    {
+      "path": "网页字幕/35_7674178162145774862_zh.vtt",
+      "bytes": 756
+    },
+    {
+      "path": "网页逐条说明/01_7626834573757828382_文案字幕与拆解.md",
+      "bytes": 3253
+    },
+    {
+      "path": "网页逐条说明/02_7652909201496329503_文案字幕与拆解.md",
+      "bytes": 3408
+    },
+    {
+      "path": "网页逐条说明/03_7624296314162973983_文案字幕与拆解.md",
+      "bytes": 4227
+    },
+    {
+      "path": "网页逐条说明/04_7639335166137093390_文案字幕与拆解.md",
+      "bytes": 2805
+    },
+    {
+      "path": "网页逐条说明/05_7647330696192724255_文案字幕与拆解.md",
+      "bytes": 3805
+    },
+    {
+      "path": "网页逐条说明/06_7669853711333723423_文案字幕与拆解.md",
+      "bytes": 4056
+    },
+    {
+      "path": "网页逐条说明/07_7666428011125705997_文案字幕与拆解.md",
+      "bytes": 3625
+    },
+    {
+      "path": "网页逐条说明/08_7626031323097926942_文案字幕与拆解.md",
+      "bytes": 1713
+    },
+    {
+      "path": "网页逐条说明/09_7636727163265355021_文案字幕与拆解.md",
+      "bytes": 2661
+    },
+    {
+      "path": "网页逐条说明/10_7654153145219550478_文案字幕与拆解.md",
+      "bytes": 1608
+    },
+    {
+      "path": "网页逐条说明/11_7653008162601110797_文案字幕与拆解.md",
+      "bytes": 1115
+    },
+    {
+      "path": "网页逐条说明/12_7648456484837281055_文案字幕与拆解.md",
+      "bytes": 5161
+    },
+    {
+      "path": "网页逐条说明/13_7649885026405911839_文案字幕与拆解.md",
+      "bytes": 1183
+    },
+    {
+      "path": "网页逐条说明/14_7675325882155666702_文案字幕与拆解.md",
+      "bytes": 3620
+    },
+    {
+      "path": "网页逐条说明/15_7655689079111093535_文案字幕与拆解.md",
+      "bytes": 3615
+    },
+    {
+      "path": "网页逐条说明/16_7643776579008564494_文案字幕与拆解.md",
+      "bytes": 3157
+    },
+    {
+      "path": "网页逐条说明/17_7640056782546652447_文案字幕与拆解.md",
+      "bytes": 2779
+    },
+    {
+      "path": "网页逐条说明/18_7667558078442655006_文案字幕与拆解.md",
+      "bytes": 4293
+    },
+    {
+      "path": "网页逐条说明/19_7647121574939708685_文案字幕与拆解.md",
+      "bytes": 3066
+    },
+    {
+      "path": "网页逐条说明/20_7640447221955087646_文案字幕与拆解.md",
+      "bytes": 2856
+    },
+    {
+      "path": "网页逐条说明/21_7652768765775498510_文案字幕与拆解.md",
+      "bytes": 3246
+    },
+    {
+      "path": "网页逐条说明/22_7669916584332234015_文案字幕与拆解.md",
+      "bytes": 1138
+    },
+    {
+      "path": "网页逐条说明/23_7626891961298947359_文案字幕与拆解.md",
+      "bytes": 2994
+    },
+    {
+      "path": "网页逐条说明/24_7680537365156269343_文案字幕与拆解.md",
+      "bytes": 3383
+    },
+    {
+      "path": "网页逐条说明/25_7648832005400038669_文案字幕与拆解.md",
+      "bytes": 1011
+    },
+    {
+      "path": "网页逐条说明/26_7669170711499492622_文案字幕与拆解.md",
+      "bytes": 1257
+    },
+    {
+      "path": "网页逐条说明/27_7633588418236304671_文案字幕与拆解.md",
+      "bytes": 1069
+    },
+    {
+      "path": "网页逐条说明/28_7669489384739130637_文案字幕与拆解.md",
+      "bytes": 1323
+    },
+    {
+      "path": "网页逐条说明/29_7627421644126014733_文案字幕与拆解.md",
+      "bytes": 3097
+    },
+    {
+      "path": "网页逐条说明/30_7655660597840760094_文案字幕与拆解.md",
+      "bytes": 2952
+    },
+    {
+      "path": "网页逐条说明/31_7648030945114737951_文案字幕与拆解.md",
+      "bytes": 2440
+    },
+    {
+      "path": "网页逐条说明/32_7650770452477922590_文案字幕与拆解.md",
+      "bytes": 2808
+    },
+    {
+      "path": "网页逐条说明/33_7667877441624378654_文案字幕与拆解.md",
+      "bytes": 2672
+    },
+    {
+      "path": "网页逐条说明/34_7635016869144972557_文案字幕与拆解.md",
+      "bytes": 1023
+    },
+    {
+      "path": "网页逐条说明/35_7674178162145774862_文案字幕与拆解.md",
+      "bytes": 2750
+    },
+    {
+      "path": "视频/01_7626834573757828382.mp4",
+      "bytes": 8198257
+    },
+    {
+      "path": "视频/02_7652909201496329503.mp4",
+      "bytes": 5892558
+    },
+    {
+      "path": "视频/03_7624296314162973983.mp4",
+      "bytes": 10103707
+    },
+    {
+      "path": "视频/04_7639335166137093390.mp4",
+      "bytes": 7523128
+    },
+    {
+      "path": "视频/05_7647330696192724255.mp4",
+      "bytes": 7003317
+    },
+    {
+      "path": "视频/06_7669853711333723423.mp4",
+      "bytes": 13227361
+    },
+    {
+      "path": "视频/07_7666428011125705997.mp4",
+      "bytes": 8360864
+    },
+    {
+      "path": "视频/08_7626031323097926942.mp4",
+      "bytes": 2232298
+    },
+    {
+      "path": "视频/09_7636727163265355021.mp4",
+      "bytes": 4422204
+    },
+    {
+      "path": "视频/10_7654153145219550478.mp4",
+      "bytes": 4749985
+    },
+    {
+      "path": "视频/11_7653008162601110797.mp4",
+      "bytes": 533635
+    },
+    {
+      "path": "视频/12_7648456484837281055.mp4",
+      "bytes": 10012316
+    },
+    {
+      "path": "视频/13_7649885026405911839.mp4",
+      "bytes": 1134423
+    },
+    {
+      "path": "视频/14_7675325882155666702.mp4",
+      "bytes": 8550723
+    },
+    {
+      "path": "视频/15_7655689079111093535.mp4",
+      "bytes": 9629503
+    },
+    {
+      "path": "视频/16_7643776579008564494.mp4",
+      "bytes": 10156350
+    },
+    {
+      "path": "视频/17_7640056782546652447.mp4",
+      "bytes": 6304597
+    },
+    {
+      "path": "视频/18_7667558078442655006.mp4",
+      "bytes": 7335685
+    },
+    {
+      "path": "视频/19_7647121574939708685.mp4",
+      "bytes": 5783473
+    },
+    {
+      "path": "视频/20_7640447221955087646.mp4",
+      "bytes": 4557163
+    },
+    {
+      "path": "视频/21_7652768765775498510.mp4",
+      "bytes": 4500086
+    },
+    {
+      "path": "视频/22_7669916584332234015.mp4",
+      "bytes": 1024346
+    },
+    {
+      "path": "视频/23_7626891961298947359.mp4",
+      "bytes": 8928099
+    },
+    {
+      "path": "视频/24_7680537365156269343.mp4",
+      "bytes": 2961814
+    },
+    {
+      "path": "视频/25_7648832005400038669.mp4",
+      "bytes": 747096
+    },
+    {
+      "path": "视频/26_7669170711499492622.mp4",
+      "bytes": 4695486
+    },
+    {
+      "path": "视频/27_7633588418236304671.mp4",
+      "bytes": 1432838
+    },
+    {
+      "path": "视频/28_7669489384739130637.mp4",
+      "bytes": 1684405
+    },
+    {
+      "path": "视频/29_7627421644126014733.mp4",
+      "bytes": 5762540
+    },
+    {
+      "path": "视频/30_7655660597840760094.mp4",
+      "bytes": 3178015
+    },
+    {
+      "path": "视频/31_7648030945114737951.mp4",
+      "bytes": 3550383
+    },
+    {
+      "path": "视频/32_7650770452477922590.mp4",
+      "bytes": 6432740
+    },
+    {
+      "path": "视频/33_7667877441624378654.mp4",
+      "bytes": 4157916
+    },
+    {
+      "path": "视频/34_7635016869144972557.mp4",
+      "bytes": 2598348
+    },
+    {
+      "path": "视频/35_7674178162145774862.mp4",
+      "bytes": 6593736
+    }
+  ],
+  "textTemplates": [
+    "策划资料/桌面冰雾扇_澳洲广告策划.md"
+  ]
+}

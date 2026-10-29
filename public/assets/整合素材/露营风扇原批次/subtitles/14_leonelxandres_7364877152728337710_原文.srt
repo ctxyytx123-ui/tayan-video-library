@@ -1,0 +1,43 @@
+1
+00:00:00,000 --> 00:00:02,600
+vas a querer comprar este ventilador cuando sepas todo lo que puede hacer
+
+2
+00:00:02,601 --> 00:00:05,331
+puedes cambiar su posición hacia los lados o hacia arriba y hacia abajo
+
+3
+00:00:05,332 --> 00:00:08,085
+tiene una agarradera en la parte de arriba y un gancho en la parte de abajo
+
+4
+00:00:08,095 --> 00:00:09,550
+así lo puedes colgar donde tú quieras
+
+5
+00:00:09,551 --> 00:00:11,253
+tiene una luz led con 3 niveles
+
+6
+00:00:11,600 --> 00:00:12,250
+un control remoto
+
+7
+00:00:12,251 --> 00:00:16,011
+y una batería de 20000 miliamperios que te rinde hasta 138 horas con la luz led
+
+8
+00:00:16,012 --> 00:00:17,698
+o hasta 58 horas con el ventilador
+
+9
+00:00:17,699 --> 00:00:19,258
+tiene 4 velocidades de ventilador
+
+10
+00:00:19,259 --> 00:00:22,741
+modo de movimiento automático de 45 y 90 grados y por si fuera poco
+
+11
+00:00:22,742 --> 00:00:24,660
+tiene un timer de una hasta 8 horas

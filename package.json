@@ -1,0 +1,16 @@
+{
+  "name": "tayan-video-library",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/prepare-site.mjs && next dev",
+    "build": "node scripts/prepare-site.mjs && next build",
+    "verify": "node scripts/verify-export.mjs"
+  },
+  "dependencies": {
+    "next": "16.4.3",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "engines": { "node": ">=22" }
+}

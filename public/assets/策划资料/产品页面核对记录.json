@@ -1,0 +1,51 @@
+{
+  "checked_on": "2026-10-28",
+  "source": "https://tayentech.com/products/tayan-cooling-system-8848",
+  "product_title": "Tayan CoolMist Portable Semiconductor Cooling System-Beat the Summer Heat: Take Your \"Mini AC\" Everywhere!",
+  "variants": [
+    {
+      "id": 52957790961951,
+      "title": "Upgraded Tank & Triple-Jet Cooling Mist / Black",
+      "price_AUD": 139.0,
+      "compare_at_AUD": 219.0,
+      "available_at_read": true
+    },
+    {
+      "id": 52957790929183,
+      "title": "Upgraded Tank & Triple-Jet Cooling Mist / White",
+      "price_AUD": 139.0,
+      "compare_at_AUD": 219.0,
+      "available_at_read": true
+    },
+    {
+      "id": 52957790994719,
+      "title": "Upgraded Tank & Triple-Jet Cooling Mist / White + Black",
+      "price_AUD": 269.0,
+      "compare_at_AUD": 409.0,
+      "available_at_read": true
+    },
+    {
+      "id": 52957790798111,
+      "title": "Standard Edition / Black",
+      "price_AUD": 135.0,
+      "compare_at_AUD": 209.0,
+      "available_at_read": true
+    },
+    {
+      "id": 52957790765343,
+      "title": "Standard Edition / White",
+      "price_AUD": 135.0,
+      "compare_at_AUD": 209.0,
+      "available_at_read": true
+    },
+    {
+      "id": 52957790830879,
+      "title": "Standard Edition / White + Black",
+      "price_AUD": 259.0,
+      "compare_at_AUD": 399.0,
+      "available_at_read": true
+    }
+  ],
+  "shipping_page_text": "Free shipping on Australian orders over A$190",
+  "performance_status": "Product-page statements, not independently verified performance tests"
+}
